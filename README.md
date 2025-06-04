@@ -17,3 +17,8 @@ python camera_app.py
 ```
 
 Press `q` to exit the application.
+
+## Browser version
+
+Open `webcam.html` in a modern browser. The page will request access to your
+camera and display the live video stream. No additional setup is required.
